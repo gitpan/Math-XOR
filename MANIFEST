@@ -1,0 +1,5 @@
+MANIFEST
+Makefile.PL
+XOR.pm
+XOR.xs
+test.pl
